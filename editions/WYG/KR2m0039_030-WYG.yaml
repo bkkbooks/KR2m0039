@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/30
+seq: 30
+front:
+  text: 欽定四庫全書欽定南巡盛典卷十九目錄天章十九
+  hash: sha256:ed25d92b38db90b1c27aa0074a6549f4826fdce558ebb761769d4e6c58a9d3e0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_030-1a, image: WYG0658/WYG0658-0342a.png}
+body:
+  text: 乾隆四十九年甲辰御製古今體詩
+  hash: sha256:d7102f67891d9abe7ccf2b3b8fb3c2f2fa3c8f6a0ce4b3e6ad5a64f899ffa04b
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷十九目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_030.txt
+hash: sha256:95677fd29c260c433f8f8b1749491f22b21892eeca6f54763261404eda086594

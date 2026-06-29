@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/84
+seq: 84
+front:
+  text: 欽定四庫全書欽定南巡盛典卷五十六目録
+  hash: sha256:e1fdc119cb4a0a8c7c459efe62bf2d30290a439e526c60bb46b2b6aed00d2f7d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_084-1a, image: WYG0659/WYG0659-0006c.png}
+body:
+  text: 海塘二
+  hash: sha256:fd65cd5123e9caaf7d11f9028724328beedd9d17799406e49d54045161817bdf
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷五十六目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_084.txt
+hash: sha256:94af82a2fcbb42097d8f870b43aad4debaa00f0e55c1930251341adaef37156a

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/125
+seq: 125
+front:
+  text: 欽定四庫全書欽定南巡盛典卷九十二目録
+  hash: sha256:3198b5e990f433edf9e3b26df210f34de67ff9200d0a2d630c529d8fcd591f83
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_125-1a, image: WYG0659/WYG0659-0420c.png}
+body:
+  text: 奏議四
+  hash: sha256:b9f966a22019f5c73fb0d2763ddbdec7892ec178ca4a6d4c3f9f47b56eb2869b
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷九十二目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_125.txt
+hash: sha256:ec0e12ac2acd8b7aa159d8bcd720560d1b456744450456a03ea8a24face4bf7d

@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/86
+seq: 86
+front:
+  text: 欽定四庫全書欽定南巡盛典卷五十七目録
+  hash: sha256:e3a5f96dde517338d54a6bb69d1a38a48b1157b10a021bda1fd6ef243cbde2bc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_086-1a, image: WYG0659/WYG0659-0020a.png}
+body:
+  text: 海塘三
+  hash: sha256:4a8bca95e24368f1616b80a7762010e7ea5bd68f72c79a7943c06d9578a762ca
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷五十七目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_086.txt
+hash: sha256:81225914ea77e9a4498a639fa8492232989c385611c487c4e615d5326da9064b

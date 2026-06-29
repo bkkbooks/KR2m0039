@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/5
+seq: 5
+front:
+  text: 欽定四庫全書欽定南廵盛典卷三目錄天章三
+  hash: sha256:f8fcde75c895b7b9bb540dee81898818eecf1522c847165d884a247be8635f0f
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_005-1a, image: WYG0658/WYG0658-0069a.png}
+body:
+  text: 乾隆二十二年丁丑御製古今體詩
+  hash: sha256:33b2e31bf204e8b0f5ed1cf5dcbde5126e346d2ffe9d026b714898f1caab7afb
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷三目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_005.txt
+hash: sha256:a6cced0dd61ff94f0cf2bb6c3bc91ca20c815160acb2eb25aec6cf027e4ab1be

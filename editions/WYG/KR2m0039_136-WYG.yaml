@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/136
+seq: 136
+front:
+  text: 欽定四庫全書欽定南巡盛典卷九十九目錄
+  hash: sha256:5815d379df2dbbb9a632c85697a2c32856cd5f8eba0cc9a28db6861078ab2b35
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_136-1a, image: WYG0659/WYG0659-0515c.png}
+body:
+  text: 奏議
+  hash: sha256:7efd4ce9ba82387c877d08b3d815aeeea45f9e9cff90d2b4ca57b25d0833859c
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷九十九目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_136.txt
+hash: sha256:ec738b94666f9e85a569acf3d28da44b39a671320982c6dcc70176eca9d29826

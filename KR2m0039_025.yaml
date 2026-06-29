@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/25
+seq: 25
+front:
+  text: 欽定四庫全書欽定南巡盛典卷十五目録章十五
+  hash: sha256:37896410344b55029deab6440f0f8681da1d8ad906704eaf0ccbf4a98ed414c0
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_025-1a, image: WYG0658/WYG0658-0268a.png}
+body:
+  text: 乾隆四十五年庚子御製古今體詩
+  hash: sha256:4b4e4e9fef835a1795d5fa276ce68e2806d213493ea38fec41a7a3ca4e5a24d3
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷十五目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_025.txt
+hash: sha256:55c1e567fe4fcbee4264cbff4ece7194568b0644943701f3b226797c253137b3

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:18.509829'
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_000.txt
+hash: sha256:be71ca816dd9a6e24b81642b93ded07749403113cb32a4f28888905ccfa82ad3

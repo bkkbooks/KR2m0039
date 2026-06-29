@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/19
+seq: 19
+front:
+  text: 欽定四庫全書欽定南巡盛典卷十一目錄天章十一
+  hash: sha256:ffd19da6ccd4853352ffba93b6104b5ccf2f6c7bff0c61f7c6a69601c01f24e3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_019-1a, image: WYG0658/WYG0658-0199a.png}
+body:
+  text: 乾隆三十年乙酉御製古今體詩
+  hash: sha256:75d9ef32b343b4c43fbc09f337eb40fa693a1c6b03e758eb959374d08a0fe0bb
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷十一目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_019.txt
+hash: sha256:16dfac0e1254b378bf77ac5f1ac5dd2c569ca8b17e670ca6ef2951ce9385b096

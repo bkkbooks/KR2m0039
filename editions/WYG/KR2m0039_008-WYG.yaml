@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/8
+seq: 8
+front:
+  text: 欽定四庫全書欽定南巡盛典卷五目錄天章五
+  hash: sha256:fef4b0129752cce08445b1da8670ba42c85f652543746fe2b78a37d3e242aa57
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_008-1a, image: WYG0658/WYG0658-0101a.png}
+body:
+  text: 乾隆二十二年丁丑御製古今體詩
+  hash: sha256:33b2e31bf204e8b0f5ed1cf5dcbde5126e346d2ffe9d026b714898f1caab7afb
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷五目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_008.txt
+hash: sha256:daa870ed5da2478c2a96ed4662d7e737da8ac35769b271c464aee0a2ec5ef1f5

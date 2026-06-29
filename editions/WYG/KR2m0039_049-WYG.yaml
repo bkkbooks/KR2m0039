@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/49
+seq: 49
+front:
+  text: 欽定四庫全書欽定南巡盛典卷三十六目録
+  hash: sha256:9026df2841e327fd688574172db3a64622eeef141be7a8cc5d706cd4a5efe60d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_049-1a, image: WYG0658/WYG0658-0540a.png}
+body:
+  text: 河防二
+  hash: sha256:7726ef642f366e30e56fc781f11e24ad7ba44db8ec4a70486ac83fcc3ffcc80b
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷三十六目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_049.txt
+hash: sha256:37fb2feb8087585dafe876f0726fd919f820c6cf1f06645334f2464c99905ac7

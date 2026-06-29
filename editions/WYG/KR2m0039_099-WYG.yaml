@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/99
+seq: 99
+front:
+  text: 欽定四庫全書欽定南巡盛典卷六十七目錄
+  hash: sha256:6d4c04d7c27d7c7722591a86169eb6717b7712f4db874fff0d1c14b4f3f6447d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_099-1a, image: WYG0659/WYG0659-0132c.png}
+body:
+  text: 祀典三
+  hash: sha256:53164999c1a1888ae5b4e92572a1950f262597a072f18b9c1608eab1dd93e5aa
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷六十七目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_099.txt
+hash: sha256:e39f447a3af0476e3129d1cf128890f5ca44d0236739918a041d4587b966e6f6

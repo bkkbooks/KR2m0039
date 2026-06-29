@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/66
+seq: 66
+front:
+  text: 欽定四庫全書欽定南巡盛典卷四十七目錄
+  hash: sha256:28501978887232d284d421a6625142aac2c6fd0328922cbc476ca0b2b934f3f7
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_066-1a, image: WYG0658/WYG0658-0711a.png}
+body:
+  text: 河防十三
+  hash: sha256:78e132f036592f32a30bafc58607cb286a5b6da35686624e41b484e03d99f8a2
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷四十七目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_066.txt
+hash: sha256:94b0dcdfc2ad810557fd7b3251ae82d7dadebc4d255dfb1e31e15730eac86459

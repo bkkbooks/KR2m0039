@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/82
+seq: 82
+front:
+  text: 欽定四庫全書欽定南巡盛典卷五十五目録
+  hash: sha256:b6b9c59711566289a9e00e1114df15a6482560e6dc25f66a815def5b9c581c7a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_082-1a, image: WYG0658/WYG0658-0885c.png}
+body:
+  text: 海塘一
+  hash: sha256:d0abe14820758517d28ac3d60a9a291d1031b36b7ed3c61edef8ef92b8628a22
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷五十五目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_082.txt
+hash: sha256:fe9d0aa30c25130d439aa4029ab4e6cf098a9ec7c8ae370f143ba2137c63aec6

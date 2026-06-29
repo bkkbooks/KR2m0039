@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/68
+seq: 68
+front:
+  text: 欽定四庫全書欽定南巡盛典卷四十八目錄
+  hash: sha256:c76c551b897e41e8cca11da1c484be5d103a1f4ddbf67f12d3f5c125e59392e6
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_068-1a, image: WYG0658/WYG0658-0723c.png}
+body:
+  text: 河防十四
+  hash: sha256:c9d9f44944307c5f352949954b258980a5c4490e47a408cf2a448634dd48ffac
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷四十八目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_068.txt
+hash: sha256:10bdbb439bfccdb6fb6e5960fada7c942d46bd6c78b525716436dcdf3d6d38e1

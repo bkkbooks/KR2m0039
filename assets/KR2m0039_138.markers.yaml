@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR2m0039/bkk/v1/markers/138
+seq: 138
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2m0039_krp_138-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2m0039_WYG_138-1a01}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR2m0039_krp_138-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR2m0039_WYG_138-1a02}
+  - {type: substitution, offset: 16, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR2m0039_krp_138-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR2m0039_WYG_138-1a03}
+  - {type: indent, offset: 0, content: 　, id: KR2m0039_krp_138-bkkind1}
+  - {type: 'kr:newline', offset: 2, content: '
+
+      ', id: KR2m0039_krp_138-bkkkrnewl2}
+  back: []
+hash: sha256:ada93ce9b575cb2cdb0662f770243ed53c13e0a771e54c1370746952e85b533c

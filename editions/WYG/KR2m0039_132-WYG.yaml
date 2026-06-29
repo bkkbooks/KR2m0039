@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/132
+seq: 132
+front:
+  text: 欽定四庫全書欽定南巡盛典卷九十七目錄
+  hash: sha256:7fc777ed35fec9d8e86e98f9b8ce1e6a2ae6cbd358d5bbccb9d34b652e7ab9cb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_132-1a, image: WYG0659/WYG0659-0492a.png}
+body:
+  text: 奏議
+  hash: sha256:7efd4ce9ba82387c877d08b3d815aeeea45f9e9cff90d2b4ca57b25d0833859c
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷九十七目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_132.txt
+hash: sha256:634ee3aaa01442dcc9c73d6e6cd4956e3cba3a01a8c10eeeb72d9b08f61b61ff

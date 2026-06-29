@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/WYG/v1/juan/11
+seq: 11
+front:
+  text: 欽定四庫全書欽定南巡盛典卷七目録天章七
+  hash: sha256:b6633bc72a61fd7b627a9e8a825ceca4a29c581ae78293af9cd8ff3aa1790928
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_011-1a, image: WYG0658/WYG0658-0133a.png}
+body:
+  text: 乾隆二十七年壬午御製古今體詩
+  hash: sha256:95348489ce3826b1e50bd832c46d52b605ebf161d747628d3baa1ea7869acef4
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷七目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_011.txt
+hash: sha256:cabb4f2ba61b38136da3b655b6131a374c72bf7e3f24e17a90b32b9143ad61c6

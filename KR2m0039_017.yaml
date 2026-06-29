@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/17
+seq: 17
+front:
+  text: 欽定四庫全書欽定南巡盛典卷十目録天章十
+  hash: sha256:5a8f9b55e6f983b0c329187621c644f912a7a827b5d80589dfed2b28a3cc6a4c
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_017-1a, image: WYG0658/WYG0658-0180a.png}
+body:
+  text: 乾隆二十七年御製古今體詩
+  hash: sha256:b74d16918a94cb2ae41384d0974f5764cabea5dc04ba3df727df7bf13beeabac
+metadata:
+  title: 欽定南巡盛典
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:52:18.509829'
+  juan_title: 卷十目録
+  source:
+    repository: kanripo
+    path: KR2m0039/KR2m0039_017.txt
+hash: sha256:a31fd2aa7c7e89f42c9dbb06f60f0f294072abbf01066dcb6c7f0a254f35471a
