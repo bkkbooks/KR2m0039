@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/17
 seq: 17
 front:
-  text: 欽定四庫全書欽定南巡盛典卷十目録天章十
-  hash: sha256:5a8f9b55e6f983b0c329187621c644f912a7a827b5d80589dfed2b28a3cc6a4c
+  text: 欽定四庫全書欽定南廵盛典卷十目錄天章十
+  hash: sha256:00c0b499908dcfdaecfff20593ccb2a1099dd0ca8de4c1d6251efa4da94d437d
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_017-1a, image: WYG0658/WYG0658-0180a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0039/KR2m0039_017.txt
-hash: sha256:a31fd2aa7c7e89f42c9dbb06f60f0f294072abbf01066dcb6c7f0a254f35471a
+hash: sha256:e054055cbf391ac06f56ce23c9fd9744db0dddc2742ea6be0e216ad9630f17c9

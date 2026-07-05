@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/23
 seq: 23
 front:
-  text: 欽定四庫全書欽定南巡盛典卷十四目録天章十四
-  hash: sha256:1f89ca28f7c9e48c7d7960b2c42ac1350f0fe939009e2785045882ad7be057e5
+  text: 欽定四庫全書欽定南巡盛典卷十四目錄天章十四
+  hash: sha256:2a2131e384c8c8ce7b6f3a083bdc560646ddda581ccfe86d8963c6eef53b5d22
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_023-1a, image: WYG0658/WYG0658-0251a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0039/KR2m0039_023.txt
-hash: sha256:c169659205c1fac60f9168d482a78993260929705e3d0effe01c46e2de48ad96
+hash: sha256:c46b27102e846028b7916d56fa381151c369558d48a348acc1b57045e2c3dc3b

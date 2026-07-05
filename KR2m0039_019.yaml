@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/19
 seq: 19
 front:
-  text: 欽定四庫全書欽定南巡盛典卷十一目録天章十一
-  hash: sha256:852f4832753298fd8014e1324d47263eb2297f1db34b23f1bcf7a79efb57eb81
+  text: 欽定四庫全書欽定南巡盛典卷十一目錄天章十一
+  hash: sha256:ffd19da6ccd4853352ffba93b6104b5ccf2f6c7bff0c61f7c6a69601c01f24e3
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_019-1a, image: WYG0658/WYG0658-0199a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0039/KR2m0039_019.txt
-hash: sha256:afb9d0cdc7015b830b8013e006276f6d13c31f5468c4d644aa1288e92116b0c9
+hash: sha256:0c9176f3009b70db73864546ccda9a1dc3b547af8b28c6a6e80c04ec7ed901df
