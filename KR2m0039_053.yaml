@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/53
 seq: 53
 front:
-  text: 欽定四庫全書欽定南巡盛典卷三十八目錄
-  hash: sha256:e6020c0d1ad5761e3088a88b7a744071a9a71c90ad13ebea8a8b39c4891aee24
+  text: 欽定四庫全書欽定南巡盛典卷三十八目録
+  hash: sha256:5155bb7bc69964f4ac5292beb6553b4b0047bc05e73cfd21d759b224b5c03241
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_053-1a, image: WYG0658/WYG0658-0564a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0039/KR2m0039_053.txt
-hash: sha256:a7721a63aebf69b8f5f9dfa65550b39ec78cd234b38a8311e8b8b6624e2c4ea9
+hash: sha256:bbf624a9fe46932f9cef529c2bba1d814d2d806931d88de777faae6f9c3c6607

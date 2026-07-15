@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2m0039/krp/v1/juan/125
 seq: 125
 front:
-  text: 欽定四庫全書欽定南廵盛典卷九十二目録
-  hash: sha256:8e291ef752baf4295fbfdee3aa792678d37316e02fd4d1850d4f30c7b5801713
+  text: 欽定四庫全書欽定南巡盛典卷九十二目録
+  hash: sha256:3198b5e990f433edf9e3b26df210f34de67ff9200d0a2d630c529d8fcd591f83
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0039_WYG_125-1a, image: WYG0659/WYG0659-0420c.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0039/KR2m0039_125.txt
-hash: sha256:b6980a2c0cd50cd59a512b790d96caf453238ec93fffea45874dbb4391612d19
+hash: sha256:ec0e12ac2acd8b7aa159d8bcd720560d1b456744450456a03ea8a24face4bf7d
